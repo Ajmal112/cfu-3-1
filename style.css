@@ -1,0 +1,78 @@
+.image {
+    width:250px;
+    height:250px;
+    border-radius: 10px;
+
+}
+.box-container {
+    width:300px;
+    height:500px;
+    background-color: hsl(216, 50%, 16%);
+    padding-left:50px;
+    padding-top: 30px;
+    border-radius: 20px;
+}
+.ethcoins {
+    display: flex;
+    justify-content: space-between;
+}
+.creation {
+    display: flex;
+}
+.avatar {
+    width:30px;
+    height:30px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+.avatarletters {
+    padding-left:13px;
+    padding-top:6px;
+}
+.days {
+    padding-right:45px;
+    color:hsl(0, 0%, 100%);
+    opacity: 0.5;
+    position: relative;
+    left:5px;
+    bottom:17px;
+}
+body {
+    width:1440px;
+    position:relative;
+    left:700px;
+    top:200px;
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+.ethprice {
+    color:hsl(178, 100%, 50%);
+    position: relative;
+    right:35px;
+    bottom:17px;
+}
+.avatarletters {
+    display: flex;
+    
+}
+.avatarletters2 {
+    position: relative;
+    left:7px;
+    bottom:17px;
+}
+.avatarletters1 {
+    color:hsl(0, 0%, 100%);
+    opacity: 0.5;
+}
+.threedays {
+    display: flex; 
+}
+hr {
+    opacity: 0.2;
+    position: relative;
+    right:20px;
+    width:260px;
+}
+.creation {
+    margin-top: 20px;
+}
